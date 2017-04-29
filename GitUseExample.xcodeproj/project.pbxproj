@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D905DE721EB4CD7C008BEFB3 /* DemoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D905DE711EB4CD7C008BEFB3 /* DemoViewController.swift */; };
 		D9E9F5061EAE022E0088D1D1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9E9F5051EAE022E0088D1D1 /* AppDelegate.swift */; };
 		D9E9F5081EAE022E0088D1D1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9E9F5071EAE022E0088D1D1 /* ViewController.swift */; };
 		D9E9F50B1EAE022E0088D1D1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D9E9F5091EAE022E0088D1D1 /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D905DE711EB4CD7C008BEFB3 /* DemoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DemoViewController.swift; sourceTree = "<group>"; };
 		D9E9F5021EAE022E0088D1D1 /* GitUseExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitUseExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D9E9F5051EAE022E0088D1D1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D9E9F5071EAE022E0088D1D1 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				D9E9F5051EAE022E0088D1D1 /* AppDelegate.swift */,
 				D9E9F5071EAE022E0088D1D1 /* ViewController.swift */,
 				D9E9F5171EAE06A00088D1D1 /* MapForItienaryViewController.swift */,
+				D905DE711EB4CD7C008BEFB3 /* DemoViewController.swift */,
 				D9E9F5091EAE022E0088D1D1 /* Main.storyboard */,
 				D9E9F50C1EAE022E0088D1D1 /* Assets.xcassets */,
 				D9E9F50E1EAE022E0088D1D1 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				D9E9F5081EAE022E0088D1D1 /* ViewController.swift in Sources */,
 				D9E9F5181EAE06A00088D1D1 /* MapForItienaryViewController.swift in Sources */,
 				D9E9F5061EAE022E0088D1D1 /* AppDelegate.swift in Sources */,
+				D905DE721EB4CD7C008BEFB3 /* DemoViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -288,6 +292,7 @@
 				D9E9F5161EAE022E0088D1D1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
